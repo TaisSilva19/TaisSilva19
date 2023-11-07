@@ -1,8 +1,7 @@
-### Oii, Sou Tais Silva.
+### Oi, Sou Tais Silva.
 ### Tudo bem? 😄
 
-- 🔭 Atualmente sou estágiaria de desenvolvimento
-- 🌱 Me desenvolvendo em liguagem de programação Java
+- 🌱 Atualmente me desenvolvendo em liguagem de programação Java
 - 😄 Ela/Dela
 - ⚡ Amo Música 🎼
   
